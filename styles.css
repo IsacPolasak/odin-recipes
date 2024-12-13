@@ -14,11 +14,11 @@ Light: F3F3F3 */
 }
 
 .headers {
-    text-align: center;
     font-weight: bold;
     color: #586BA4;
 }
-.headers.mainpage-header {
+
+.mainpage-header {
     color: #0C1618;
 }
 
@@ -41,6 +41,7 @@ Light: F3F3F3 */
     color: #586BA4;
     border-bottom: solid 3.5px #FF521B;
     padding: 10px;
+    text-align: center;
 }
 
 .recipe-list, .recipe-link {
